@@ -1,0 +1,89 @@
+body {
+    background-color: #F3F8F8;
+}
+
+.nav {
+    display: flex;
+    vertical-align: top;
+    background-color: #1B5E5C;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    padding: 1%;
+    text-align: left;
+    flex-direction: row;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    flex: content;
+    width: 100%;
+    padding: 5px;
+    flex-direction: row;
+    justify-content: right;
+}
+
+.navbar-nav {
+    font-family: Garamond;
+    font-size: 36px;
+    color: #CFF0EE;
+}
+.container img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navbar-nav{
+    display: block;
+    margin-left: 60%;
+    margin-right: auto;
+}
+p {
+
+    font-family: Garamond;
+    font-size: 24px;
+    color: #1B5E5C;
+    border-radius: 15px;
+    margin-left: 15%;
+    margin-right: 15%
+}
+h1 {
+    text-align: left;
+    font-family: Garamond;
+    font-size: 42px;
+    font-weight: bold;
+    color: #1B5E5C;
+    text-align: center;
+}
+.projectIntro p {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 10%;
+    margin-top: 5%;
+}
+.lead{
+    margin-left: 10%;
+    margin-right: 10%
+}
+.btn{
+    background-color: #1B5E5C;
+    color: #CFF0EE;
+    border-radius: 15px;
+    font-size: 24px;
+    font-family: Garamond;
+    font-weight: bold;
+    margin: 15px;
+}
+.card {
+    margin-left: 15%;
+    margin-right: 15%
+}
+h5 {
+    font-family: Garamond;
+    font-size: 42px;
+    font-weight: bold;
+    color: #1B5E5C;
+}
